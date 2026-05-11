@@ -409,3 +409,13 @@ docker run -d -p 8080:80 -e SECRET_KEY="your_secret_key" zparse-php
     notifempty
 }
 ```
+## 参考项目
+
+**media-parser**
+GitHub: [media-parser](https://github.com/ucmao/media-parser/)
+
+## ⭐ 支持项目
+
+如果这个项目对你有帮助，请给个 Star ⭐！
+
+---
